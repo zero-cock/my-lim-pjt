@@ -19,3 +19,7 @@ h6,
 header {
   font-family: "PartialSansKR-Regular";
 }
+
+#box p {
+  white-space: pre-wrap;
+}
