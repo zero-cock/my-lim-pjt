@@ -8,7 +8,7 @@ async function main() {
     document.querySelector("#box").appendChild(spinner);
 
     // const url = "http://127.0.0.1:3000";
-    const url = "https://cottony-five-lettuce.glitch.me";
+    const url = "https://scarlet-organized-brook.glitch.me";
     const formData = new FormData(document.querySelector("#ccForm"));
     const text = formData.get("text");
     // console.log(text);
